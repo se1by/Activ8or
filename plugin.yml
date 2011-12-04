@@ -1,0 +1,12 @@
+name: Activ8or
+version: 0.1
+description: Activ8or!
+author: se1by
+website: http://www.live-craft.net
+
+main: me.se1by.activ8or.activ8or
+
+commands:
+    activ8or:
+        description: all commands related to this plugin
+        usage: /<command>
